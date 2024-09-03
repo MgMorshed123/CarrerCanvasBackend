@@ -16,11 +16,11 @@
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+3. 🔋 [API Endpoints](#api-endpoints)
+4. 🤸 [Summary of Entity Relationships](#summary-of-entity-relationships)
+5. 🕸️ [Data Relationships](#data-relationships)
+6. 🔗 [Features](#features)
+7. 🚀 [Additional Features](#additional-features)
 
 ## 🤖 Introduction
 
