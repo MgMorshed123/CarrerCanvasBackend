@@ -69,6 +69,10 @@
 - **GET** `/getadminjobs`: Retrieves a list of jobs posted by the authenticated recruiter (admin jobs).
 - **GET** `/getjobById/:id`: Retrieves details of a specific job by its `id`.
 
+##ERD
+
+![diagram-export-12-2-2024-1_18_28-PM](https://github.com/user-attachments/assets/5c421540-fb7e-4ee2-8a36-5c2c54c0f257)
+
 ## Summary of Entity Relationships
 
 - **User**: Can be a student or recruiter. Students apply to jobs, and recruiters post jobs under companies.
